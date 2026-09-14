@@ -1,4 +1,4 @@
--- Active: 1788993882762@@127.0.0.1@5432@bd_vendas@public
+-- Active: 1789427235030@@127.0.0.1@5432@bd_vendas@public
 
 DROP TABLE IF EXISTS vendas_itens2;
 
